@@ -22,7 +22,7 @@
     'website': 'http://www.agilebg.com',
     'license': 'AGPL-3',
     "depends": [
-        'account_accountant',
+        'account',
     ],
     "data": [
         'views/payment_view.xml',
